@@ -5,7 +5,7 @@
 <h1>Описание бота</h1>
 
 Данный чат-бот позволяет отправить анонимное сообщение пользователю при помощи реферальной ссылки.
-Ссылка шифруется при помощи <a href="https://docs.aiogram.dev/en/latest/utils/deep_linking.html">aiogram.utils.deep_linking</a><br>
+Ссылка шифруется при помощи <a href="https://docs.aiogram.dev/en/latest/utils/deep_linking.html" target=_blank>aiogram.utils.deep_linking</a><br>
 При отправке сообщения бот проверяет заблокировал ли его пользователь.
 
 Также есть возможность предложить идею при помощи команды <code>/issue Тест...</code>
